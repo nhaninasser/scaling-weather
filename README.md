@@ -1,6 +1,6 @@
 ## Weather Api Dashboard
 
-## [Link to site]() 
+## [Link to site](https://nhaninasser.github.io/scaling-weather/) 
 
 ![Screenshot](https://user-images.githubusercontent.com/93559764/148704471-74fac801-3af9-46ba-84e8-cdd3f4a8a031.png)
 
